@@ -1,0 +1,32 @@
+	.container {
+		border: 5px solid black;
+		display: flex;
+		background-color: black;
+		color: white;
+		padding: 30px;
+	}
+	
+	
+	.logo {
+		padding-right: 20px
+	}
+	.products {
+		padding-right: 20px
+	}
+	.music {
+		padding-right: 20px
+	}
+	.play {
+		padding-right: 20px
+	}
+	.connect {
+		padding-right: 20px
+	}
+
+	.signin {
+		margin-left: auto;
+		padding-right: 20px
+
+	}
+	
+

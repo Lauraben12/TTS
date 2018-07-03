@@ -1,0 +1,19 @@
+
+body {
+    
+    background: linear-gradient(to bottom, #66ff66 0%, #cc99ff 100%);
+}
+body {
+    color: purple;
+}
+
+h1 {
+	color: green;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
